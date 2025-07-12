@@ -1,0 +1,4 @@
+E:\backend\2-C# Basics\Session 03\Assignment\Assignment Template\Assignment Session03 Solution\Assignment Session03\obj\Debug\net7.0\Assignment Session03.GeneratedMSBuildEditorConfig.editorconfig
+E:\backend\2-C# Basics\Session 03\Assignment\Assignment Template\Assignment Session03 Solution\Assignment Session03\obj\Debug\net7.0\Assignment Session03.AssemblyInfoInputs.cache
+E:\backend\2-C# Basics\Session 03\Assignment\Assignment Template\Assignment Session03 Solution\Assignment Session03\obj\Debug\net7.0\Assignment Session03.AssemblyInfo.cs
+E:\backend\2-C# Basics\Session 03\Assignment\Assignment Template\Assignment Session03 Solution\Assignment Session03\obj\Debug\net7.0\Assignment Session03.csproj.CoreCompileInputs.cache
